@@ -67,7 +67,4 @@ MIT License – Free to use for learning or portfolio purposes.
 
 ## 📬 Contact
 
-Feel free to connect:
 
-- [🔗 LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [your@email.com](mailto:your@email.com)
